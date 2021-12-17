@@ -1,0 +1,19 @@
+{
+  "name": "@twan20211216/mynode6121",
+  "version": "1.0.3",
+  "author": "twan20211216",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+  },
+  "description": "测试全局变量",
+  "main": "index.js",
+  "keywords": [
+    "mynode6121"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}

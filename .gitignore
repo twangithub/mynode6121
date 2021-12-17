@@ -1,0 +1,6 @@
+.idea
+.gradle
+app/.externalNativeBuild
+node_modules
+build
+out
